@@ -16,7 +16,7 @@
  <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sangeet-joy-5932291a9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin" width="250" height="30"></a>
+<a href="https://www.linkedin.com/in/sangeet-joy-5932291a9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@SangeetJoy-blue?style=flat&logo=linkedin" width="250" height="30"></a>
 <a href="mailto:anandmainali5@gmail.com"><img alt="Email" width="250" height="30" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 </div>
