@@ -3,7 +3,7 @@
 
 <div>
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width = "35%" align="right" alt="PIC" height="300px"/>
-<div>
+<div margin-top="1rem">
   <h3> 💻 Tech Stack</h3>
   <p>
    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="50" height="50"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/source.gif" width="50" height="50">
