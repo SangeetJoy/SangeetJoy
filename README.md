@@ -15,8 +15,7 @@
 -------------------------------------------------------------------------------------
  <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/sangeet-joy-5932291a9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@SangeetJoy-blue?style=flat&logo=linkedin" width="250" height="30"></a>
-<a href="mailto:sangeet_joy@yahoo.com"><img alt="Email" width="250" height="30" src="https://img.shields.io/badge/Email-sangeet_joy@yahoo.com-blue?style=flat&logo=gmail"></a>
 </p>
 </div>
