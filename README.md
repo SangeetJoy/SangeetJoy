@@ -2,18 +2,7 @@
 <h3 align="center">🚀 FontEnd Developer | MERN Stack | Passionate UI lover | Progressive Programmer  🚀</h3>
 
 <div>
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width = "35%" align="right" alt="PIC" height="300px"/>
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
-</div> 
-</div>
-
+<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width = "35%" align="right" alt="PIC" height="300px"/>
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
