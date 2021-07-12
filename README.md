@@ -2,7 +2,7 @@
 <h3 align="center">🚀 FontEnd Developer | MERN Stack | Passionate UI lover | Progressive Programmer  🚀</h3>
 
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
