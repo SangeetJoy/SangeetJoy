@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Sangeet Joy 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div display="flex">
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+<span><img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/></span>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
