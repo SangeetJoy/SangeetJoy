@@ -6,7 +6,7 @@
 <div>
   <h3> 💻 Tech Stack</h3>
   <p>
-   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="50" height="50"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/source.gif" width="50" height="50">
+   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="Node Js"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="50" height="50"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/source.gif" width="50" height="50">
      <h3> 💻 Tools </h3>
   <p>
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/source.gif" width="50" height="50">
