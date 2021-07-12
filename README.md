@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Sangeet Joy 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 FontEnd Developer | MERN Stack | Passionate UI lover | Devops | Competitive Programmer  🚀</h3>
 <div display="flex">
 <span><img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/></span>
 <span align="left"> 
