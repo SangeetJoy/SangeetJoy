@@ -12,7 +12,7 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/source.gif" width="50" height="50">
 
   <p>
--------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
  <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
