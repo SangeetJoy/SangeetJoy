@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! I'm Sangeet Joy 👋 </h1>
 <h3 align="center">🚀 FontEnd Developer | MERN Stack | Passionate UI lover | Progressive Programmer  🚀</h3>
 <div display="flex">
-<span><img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/></span>
-<span align="left"> 
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+<div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -10,7 +10,7 @@
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
-</span> 
+</div> 
 </div>
 
 <div>
