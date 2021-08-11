@@ -16,7 +16,7 @@
 
 ### Some Stats About Sangeet Joy (Public Only)
 <p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Sangeet's github stats" src="https://github-readme-stats.vercel.app/api?username=SangeetJoy&show_icons=true&theme=merko"  > </p>
   
  <h3> 🤝🏻 Connect with Me </h3>
 
